@@ -640,3 +640,8 @@ input.game-input{
 #bd-settingspane-container .scroller-wrap .scroller{
 	background: rgba(0,0,0,.5) !important
 }
+
+.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa, .nameSelectedText-32NDX5, .nameSelectedVoice-XpjYTw, .nameSelectedText-32NDX5, .nameSelectedVoice-XpjYTw{
+	color: #ffffff;
+    border: #000000;
+    text-shadow: 1px 1px 1px #000000;
