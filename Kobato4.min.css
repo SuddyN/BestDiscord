@@ -616,19 +616,3 @@ input.game-input{
 #bd-settingspane-container .scroller-wrap .scroller{
 	background: rgba(0,0,0,.5) !important
 }
-
-.nameDefaultText, .nameDefaultVoice, .nameLockedText, .nameLockedVoice, .nameSelectedText, .nameSelectedVoice, .nameSelectedText, .nameSelectedVoice, .nameUnreadText, .nameUnreadVoice, .nameHoveredText{
-	color: #ffffff !important;
-    border: #000000 !important;
-    text-shadow: 1px 1px 1px #000000 !important;
-}
-
-.nameUnreadText-1pxldj, .nameUnreadVoice-QK4gxH {
-    color: #ffffff;
-    text-shadow: 1px 1px 1px #000000;
-}
-
-.nameHoveredText-2FFqiz {
-    color: #ffffff;
-    text-shadow: 1px 1px 1px #000000;
-}
