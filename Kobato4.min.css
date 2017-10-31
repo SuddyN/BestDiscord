@@ -200,14 +200,6 @@ li.selected, span > div.selected, section > div > div > div > div > div.selected
   height: 750px;
 }
 
-.guilds-wrapper {
-  width: 125px;
-}
-
-.guilds-wrapper .scroller-wrap {
-  width: 137px;
-}
-
 .guilds-wrapper .guilds {
   display: flex;
   flex-flow: row wrap;
@@ -586,22 +578,6 @@ input.game-input{
 .colorDefaultVoice-1x4dEl{
 	width: 0px;
 	height: 0px;
-}
-
-#app-mount,
-.app .layers .layer,
-.app .layers .layer>[class*='container-'],
-.app .layers,
-.content-region,
-.guilds-wrapper,
-.sidebar-region,
-.ui-standard-sidebar-view,
-[class*='activityFeed-'],
-[class*='channels-'],
-[class*='titleBar-']
-{
-  /* Too dark or too bright? Adjust the opacity (`0.15`) to something lower or higher */
-  background: rgba(0,0,0,.5) !important;
 }
 
 .channel-members,
