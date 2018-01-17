@@ -38,10 +38,6 @@
   color: #ffffff;
 }
 
-.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
-  background: transparent !important;
-}
-
 li.selected, span > div.selected, section > div > div > div > div > div.selected, .friends-row:hover, li.channel-text:hover, div.channel.private:hover, .btn-friends:hover, .messages .markup pre code.hljs, .member:hover {
   background: rgba(60, 60, 60, 0) !important;
 }
@@ -619,4 +615,9 @@ input.game-input{
 
 #bd-settingspane-container .scroller-wrap .scroller{
 	background: rgba(0,0,0,.5) !important
+}
+
+
+.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+  background: transparent !important;
 }
