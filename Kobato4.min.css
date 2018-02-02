@@ -621,3 +621,7 @@ input.game-input{
 .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
   background: transparent !important;
 }
+
+.theme-dark .lfg-3xoFkI {
+    background-color: rgba(0,0,0,0);
+}
