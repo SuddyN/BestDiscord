@@ -594,6 +594,10 @@ input.game-input{
   background: transparent !important;
 }
 
+.content-3JzEqq {
+	padding: 4px 8px 4px 0px;
+}
+
 .messages-wrapper + form {
   box-shadow: none !important;
 }
