@@ -614,15 +614,15 @@ input.game-input{
 .wordmark-2L03Wr {display: none;}
 
 .ui-standard-sidebar-view .content-region-scroller {
-	background: rgba(0,0,0,.5)
+	background: rgba(0,0,0,.5) !important;
 }
 
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller {
-	background: rgba(0,0,0,.5)
+	background: rgba(0,0,0,.5);
 }
 
 #bd-settingspane-container .scroller-wrap .scroller{
-	background: rgba(0,0,0,.5) !important
+	background: rgba(0,0,0,.5) !important;
 }
 
 
