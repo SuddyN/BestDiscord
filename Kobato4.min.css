@@ -580,6 +580,10 @@ input.game-input{
 	height: 0px;
 }
 
+.icon-sxakjD { 
+	width: 0px
+}
+
 .channel-members,
 .chat .content,
 .chat form,
@@ -612,6 +616,8 @@ input.game-input{
 }
 
 .wordmark-2L03Wr {display: none;}
+
+.wordmark-2iDDfm {display: none;}
 
 .ui-standard-sidebar-view .content-region-scroller {
 	background: rgba(0,0,0,.5) !important;
@@ -712,4 +718,14 @@ input.game-input{
 .typeWindows-1za-n7{
     height: 0px;
     margin-top: 0px;
+}
+
+.nameDefaultText-24KCy5, .nameDefaultVoice-3WUH7s, .nameLockedText-3pqQcL, .nameLockedVoice-26MhB1 {
+	color: #ffffff;
+	opacity: 1;
+	font-weight: 500;
+}
+
+.iconCollapsed-3hFp_8, .iconDefault-3Gr8d2, .nameCollapsed-34uFWo, .nameDefault-2DI02H {
+	color: #ffffff;
 }
