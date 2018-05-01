@@ -729,3 +729,40 @@ input.game-input{
 .iconCollapsed-3hFp_8, .iconDefault-3Gr8d2, .nameCollapsed-34uFWo, .nameDefault-2DI02H {
 	color: #ffffff;
 }
+
+.contentSelectedText-3wUhMi {
+    background-color: rgba(0,0,0,0.4);
+}
+
+.contentHoveredText-2D9B-x {
+    background-color: rgba(0,0,0,0.4);
+}
+
+.nameHoveredText-1uO31y {
+    color: #ffffff;
+}
+
+/* Emoji Popout Color Fix */
+.emojiPicker-3m1S-j {
+    background-color: #000000;
+}
+.stickyHeader-1SS0JU {
+    background: #555555
+}
+
+.emojiPicker-3m1S-j .category-2U57w6 {
+    color: #f6f6f7;
+    font-size: 12px;
+    font-weight: 500;
+    height: 24px;
+    line-height: 24px;
+    padding: 0 4px;
+    text-transform: uppercase;
+}
+.category-2U57w6 {
+    background-color: #737f8d;
+}
+
+.search-bar.search-bar-light input {
+    color: #f6f6f7
+}
