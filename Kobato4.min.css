@@ -766,3 +766,7 @@ input.game-input{
 .search-bar.search-bar-light input {
     color: #f6f6f7
 }
+
+.theme-dark .member-3W1lQa:hover .content-OzHfo4 {
+	background-color: rgba(0,0,0,0.3);
+}
