@@ -770,3 +770,27 @@ input.game-input{
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
 	background-color: rgba(0,0,0,0.3);
 }
+
+.large-3ChYtB {
+	border-radius: 40px;
+}
+
+.containerCozy-jafyvG {
+	display: flex;
+	padding: 4px 2px 2px;
+	border-radius: 8px;
+	margin: 8px;
+	background: rgba(0,0,0,.4);
+}
+
+.message-1PNnaP {
+	margin-left: -20px;
+}
+
+.nameHoveredVoice-YJ1Vfd {
+	color: #ffffff;
+}
+
+.contentHoveredVoice-3p_NEO {
+	background-color: rgba(0,0,0,.4);
+}
