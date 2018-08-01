@@ -793,3 +793,7 @@ input.game-input{
 .contentHoveredVoice-3p_NEO {
 	background-color: rgba(0,0,0,.4);
 }
+
+.theme-dark .guildsWrapper-5TJh6A {
+    background-color: rgba(0,0,0,0);
+}
