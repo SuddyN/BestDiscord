@@ -797,3 +797,30 @@ input.game-input{
 .theme-dark .guildsWrapper-5TJh6A {
     background-color: rgba(0,0,0,0);
 }
+
+.messages-3amgkR,
+.messagesWrapper-3lZDfY,
+.content-yTz4x3,
+.dividerRed-MKoLlr,
+.newMessagesBar-mujexs,
+.hasMore-3e72_v,
+.jumpToPresentBar-9P20AM
+    { background-color: transparent; background: rgba(0,0,0,0.10) }
+    
+.app .chat-3bRxxu, .app .messagesWrapper-3lZDfY, .app .content-yTz4x3
+    { background: none; background: rgba(0,0,0,0.10)}
+    
+.chat-3bRxxu form,
+.channelTextArea-rNsIhG,
+.inner-zqa7da 
+    { background-color: transparent !important; background: rgba(0,0,0,0.10)}
+
+[class*="theme-"] .divider-3gKybi>span
+ { background: transparent; padding: 0; background: rgba(0,0,0,0.10)}
+ .channelTextArea-rNsIhG {
+    padding-top: 0px;
+}
+
+.theme-dark .inner-zqa7da {
+    background-color: hsla(218,5%,47%,.3) !important;
+}
