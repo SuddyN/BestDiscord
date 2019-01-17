@@ -824,3 +824,47 @@ input.game-input{
 .theme-dark .inner-zqa7da {
     background-color: hsla(218,5%,47%,.3) !important;
 }
+
+.inner-zqa7da {
+	margin-left: -13px;
+	margin-right: 3px;
+}
+
+.searchBar-2_Yu-C {
+	background-color: rgba(0,0,0,0.2);
+}
+.theme-dark .gameLibrary-TTDw4Y {
+	background-color: transparent;
+}
+
+.theme-dark .applicationStore-1pNvnv {
+	background-color: transparent;
+}
+
+.theme-dark .inner-zqa7da {
+	background-color: rgba(0,0,0,0.3) !important;
+}
+
+.theme-dark .standardSidebarView-3F1I7i {
+	background-color: rgba(0,0,0,0.3) !important;
+}
+
+.theme-dark .sidebarRegion-VFTUkN {
+	background: transparent;
+}
+
+.theme-dark .contentRegion-3nDuYy {
+	background: transparent;
+}
+
+.card-3Qj_Yx {
+	background: rgba(0,0,0,0.4); 
+}
+
+.searchBar-2_Yu-C.searchBarLight-1NxoDG {
+	background: transparent;
+}
+
+.searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R {
+	background-color: rgba(0,0,0,0.2)
+}
