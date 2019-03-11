@@ -868,3 +868,7 @@ input.game-input{
 .searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R {
 	background-color: rgba(0,0,0,0.2)
 }
+
+.theme-dark .wrapper-1Rf91z {
+    background-color: rgba(0,0,0,0) !important;
+}
