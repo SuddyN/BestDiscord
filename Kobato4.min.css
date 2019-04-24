@@ -872,3 +872,44 @@ input.game-input{
 .theme-dark .wrapper-1Rf91z {
     background-color: rgba(0,0,0,0) !important;
 }
+
+.theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU, .theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU, .theme-light .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU, .theme-light .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU {
+    background-color: rgba(0,0,0,0.3);
+}
+
+.theme-dark .wrapper-1ucjTd:hover .content-3at_AU, .theme-light .wrapper-1ucjTd:hover .content-3at_AU {
+    background-color: rgba(0,0,0,0.3);
+}
+
+.theme-dark .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .theme-dark .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ:hover, .theme-dark .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .theme-dark .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ:hover {
+    background-color: rgba(0,0,0,0.3);
+}
+
+.theme-dark .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover, .theme-dark .topPill-30KHOu .themed-OHr7kt.item-PXvHYJ:hover {
+    background-color: rgba(0,0,0,0.3);
+}
+
+.theme-dark .icon-1_QxNX, .theme-light .icon-1_QxNX {
+    width: 0px;
+    margin-right: 0px;
+}
+
+.theme-dark .divider-3FBTu8 {
+    background: transparent;
+}
+
+.theme-dark .children-19S4PO:after {
+    background: transparent;
+}
+
+.theme-dark .topic-TCb_qw {
+    color: #ffffff;
+}
+
+[class*="theme-"] .divider-3gKybi>span {
+    background: transparent;
+}
+
+.channel-2QD9_O.selected-1HYmZZ a {
+    background-color: rgba(0,0,0,0.3);
+}
